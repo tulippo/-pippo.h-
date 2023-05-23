@@ -1,0 +1,3 @@
+pippo		KEYWORD1
+pinout	KEYWORD2
+piscar	KEYWORD2
